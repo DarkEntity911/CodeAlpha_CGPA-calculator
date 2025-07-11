@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/CodeAlpha_CGPA-calculator/project1" target="_blank">
-        <img src="https://yourdomain.com/project1.png" alt="Project 1" width="200" />
+        <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="200" />
         <br />
         <strong>Project 1</strong>
       </a>
